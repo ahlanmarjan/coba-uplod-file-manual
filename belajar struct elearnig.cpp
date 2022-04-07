@@ -79,5 +79,6 @@ int main(){
 //    mobil1.tahun=20100;
 //    mobil2 = mobil1;
 //	printf("mobil2=%d",mobil2.tahun);
+	getch();
 //	return 0;
 //}
