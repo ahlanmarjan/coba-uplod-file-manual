@@ -76,7 +76,7 @@ int main(){
 //		char warna[10];
 //	}mobil1,mobil2;
 //	
-//    mobil1.tahun=2010;
+//    mobil1.tahun=20100;
 //    mobil2 = mobil1;
 //	printf("mobil2=%d",mobil2.tahun);
 //	return 0;
